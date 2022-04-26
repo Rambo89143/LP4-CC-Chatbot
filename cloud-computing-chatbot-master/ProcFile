@@ -1,0 +1,1 @@
+web: gunicorn chatdemo:app --log-file -
